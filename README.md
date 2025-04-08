@@ -35,6 +35,17 @@ AutoReconX/
 ## Author
 Sai 
 Cybersecurity Enthusiast | Ethical hacking | Python Developer
+
+## Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/Mr-R3ddy/AutoReconX.git
+cd AutoReconX
+pip install -r requirements.txt
+python main.py -d example.com
+
+
 ## usage
 
 ```bash
