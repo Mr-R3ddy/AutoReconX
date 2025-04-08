@@ -31,7 +31,10 @@ AutoReconX/
  |---- README.md
 
  ---------
- 
+
+## Author
+Sai 
+Cybersecurity Enthusiast | Ethical hacking | Python Developer
 ## usage
 
 ```bash
