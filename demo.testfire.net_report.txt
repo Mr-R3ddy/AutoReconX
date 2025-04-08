@@ -1,0 +1,16 @@
+
+Recon Report fro demo.testfire.net
+==================================================
+
+1. Subdomains Discovered:
+ - demo.testfire.net
+
+2. Open Ports:
+ - Port 80: Unknown service
+ - Port 443: Unknown service
+ - Port 8080: Unknown service
+
+3. Vulnerabilities (CVEs):
+ -CVE data nor available.
+
+==================================================

@@ -1,0 +1,19 @@
+
+Recon Report fro primeindiagroup.com
+==================================================
+
+1. Subdomains Discovered:
+ - *.primeindiagroup.com
+ - www.primeindiagroup.com
+ - primeindiagroup.com
+
+2. Open Ports:
+ - Port 80: Unknown service
+ - Port 443: Unknown service
+ - Port 8080: Unknown service
+ - Port 8443: Unknown service
+
+3. Vulnerabilities (CVEs):
+ -CVE data nor available.
+
+==================================================

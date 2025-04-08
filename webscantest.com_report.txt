@@ -1,0 +1,18 @@
+
+Recon Report fro webscantest.com
+==================================================
+
+1. Subdomains Discovered:
+ - hackazon.webscantest.com
+ - www.webscantest.com
+ - www.hackazon.webscantest.com
+ - webscantest.com
+
+2. Open Ports:
+ - Port 80: Unknown service
+ - Port 443: Unknown service
+
+3. Vulnerabilities (CVEs):
+ -CVE data nor available.
+
+==================================================
